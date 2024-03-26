@@ -1,0 +1,21 @@
+/* styles.css */
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+  }
+  .container button:hover{
+    background-color: rgb(136, 233, 136);
+    color: #fff;
+    border-radius: 9px;
+    border-color: rgb(5, 61, 5);
+}
+
+  .heading {
+    font-size: 2rem;
+    color: navy;
+  }
+  
